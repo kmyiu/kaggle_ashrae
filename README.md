@@ -4,6 +4,8 @@
 > [For more info of the competition](https://www.kaggle.com/c/ashrae-energy-prediction/overview)
 
 > [Direct link for data](https://www.kaggle.com/c/9994/download-all)
+
+This is my first project so poor result may be expected. No external data are applied to models. The first one is based on XGB and not much parameter tuning applied. The LGBM parametes are borrowed from a discussion post.
 ## some thoughts after EDA/discussion
 - site 0:
 has meter reading 0 in the first few months in training set
